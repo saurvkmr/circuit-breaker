@@ -28,4 +28,5 @@ target
 *.iml
 out
 
-.build
+build/
+.gradle
