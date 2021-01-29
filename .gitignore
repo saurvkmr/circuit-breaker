@@ -28,9 +28,6 @@ target
 *.iml
 out
 
-build/
-.gradle
-
 HELP.md
 .gradle
 build/
